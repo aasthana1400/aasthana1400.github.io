@@ -1,0 +1,72 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:100);
+@import url(http://fonts.googleapis.com/css?family=Asap);
+body{
+  background-color: #22313F;
+  background-image: url("http://www.twitterevolutions.com/bgs/space.jpg")
+}
+/* ul li{
+  display: inline-block;
+  padding: 0 5%;
+  background-color: #537988;
+  width: 5%;
+  text-align: center;
+  
+}
+ */
+.intro ul li{
+  display: inline-block;
+  width: 10%;
+  position: relative;
+  color: 86E2D5;
+}
+ul{
+  text-align: center;
+  position: relative;
+}
+.intro{
+  position: relative;
+  text-align: center;
+  background-color: black;
+  
+}
+#logo{
+  width: 100%;
+  text-align: center;
+  border: 2px solid black;
+}
+/* #middlelogo img{
+  width: 25%;
+} */
+/* #middlelogo{
+  text-align: center;
+  background-color: transparent;
+} */
+a{
+  text-decoration: none;
+  color: black;
+}
+a:visited{
+  text-decoration: none;
+  color: black;
+}
+
+.title{
+  margin: 0 auto;
+  color: white;
+  text-align: center;
+  font-family: "Lato", sans-serif;
+  font-size: 400%;
+  padding-bottom: 60px;
+}
+
+.aboutme{
+  margin: auto;
+  text-align: left;
+  color: white;
+  float: left;
+  width: 50%;
+  font-family: "Asap", sans-serif;
+  
+}
+
+
